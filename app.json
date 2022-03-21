@@ -17,7 +17,7 @@
         "required": true
       },
       "SESSION": {
-        "description": "Get Pyrogram string session from https://replit.com/@AnjanaMadu/GenerateStringSession",
+        "description": "Get Pyrogram string session from https://github.com/gothikzoul/VoiceChatStreamer",
         "required": true
       },
       "TOKEN": {
